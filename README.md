@@ -1,7 +1,7 @@
 # TestProjectWeather
 
 
-### Setup Instructions for Xcode Project
+### Build Instructions for the project
 
 1. **Clone the Repository**  
    First, clone the repository to your local machine:
@@ -10,11 +10,11 @@
    git clone https://github.com/mra214/TestProjectWeather.git
    ```
 
-2. **Navigate to the Project Directory**  
+2. **Navigate to the project directory**  
    Move into the project folder:
 
    ```bash
-   cd WeatherApp
+   cd TestProjectWeather/WeatherApp
    ```
 
 3. **Open the Project in Xcode**  
